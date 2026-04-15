@@ -4,4 +4,4 @@ A privacy-first, locally-deployed intelligent personal assistant, featuring dyna
 
 ---
 
-<p align="center">*--Powered by Kimi K2.5--*</p>
+<p align="center"><i>--Powered by Kimi K2.5--</i></p>
